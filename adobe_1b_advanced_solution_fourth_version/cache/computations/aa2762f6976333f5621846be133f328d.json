@@ -1,0 +1,219 @@
+{
+  "result": [
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "title": "To start using a generative AI tool, select the respective call-to- action",
+      "text": "Select multiple files The Generative AI tools also appear one at a time next to the Recommended tools for you section of Acrobat Home. To start using a generative AI tool, select the respective call-to- action. Acrobat desktop In Acrobat online, the generative AI tools appear one at a time in the Explore what's new section of Acrobat Home. To start using a generative AI tool, select a file and then select the generative AI tool. Acrobat online Alternatively, in Acrobat Home, select All tools , then select AI Assistant or Generative summary tool.",
+      "page_number": 17,
+      "confidence_score": 0.654431581980646,
+      "quality_score": 0.0027,
+      "final_score": 0.5945109661255917,
+      "content_type": "general",
+      "word_count": 94,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.27,
+        "specificity_score": 0.3,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.25,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Lacks specific details",
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Add more specific details like addresses, phone numbers, or hours",
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 65.4431581980646,
+        "semantic_similarity": 0.654431581980646,
+        "quality_score": 0.0027
+      },
+      "adjusted_score": 0.5945109661255917
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "title": "Yes or No: Can you export a PDF to XML format using Acrobat",
+      "text": ". Yes or No: Can you export a PDF to XML format using Acrobat? 17. True or False: You can use the Snapshot tool to copy selected content as an image. 18. Scenario: You're a web developer who needs to export a PDF to HTML for your website. Do you use the \"Convert to HTML\" option or manually code the content? 19. Yes or No: Can you select and copy text and images from a PDF using the Select tool? 20. True or False: The Autosave feature is disabled by default in Acrobat.",
+      "page_number": 2,
+      "confidence_score": 0.5790928056726393,
+      "quality_score": 0.0027500000000000003,
+      "final_score": 0.5817162889357224,
+      "content_type": "general",
+      "word_count": 93,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.275,
+        "specificity_score": 0.38,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.1,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Lacks specific details",
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Add more specific details like addresses, phone numbers, or hours",
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 57.909280567263934,
+        "semantic_similarity": 0.5790928056726393,
+        "quality_score": 0.0027500000000000003
+      },
+      "adjusted_score": 0.28171628893572237
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Web pages Method 1 : From the top tools bar, select Create",
+      "text": "Web pages Method 1 : From the top tools bar, select Create . Then, select Web page as the file type and follow through the steps. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create > PDF fr om web page and follow through the workflow. Method 2 : Drag and drop the HTML file from your system to the Acrobat Home page. Method 3: Right -click on the file and then select Convert to Adobe PDF. Method 4: From the top -right corner of the webpage, selec t > Print > Adobe PDF . Content copied on the clipboard Method 1 : From the top tools bar, select Create . Then, select Clipboard as the file type and follow through the steps. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create > PDF from clipboard and follow through the workflow. AutoCAD files (Acrobat Pro for Windows only) Method 1 : From the top tools bar, select Create and then select the file. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create > PDF from file and follow through the workflo w. Method 2 : Drag and drop the HTML file from your system to the Acrobat Home page. Method 3: Right -click the file and select Convert to Adobe PDF . Method 4 : Within AutoCAD, go to Print > Adobe PDF .",
+      "page_number": 4,
+      "confidence_score": 0.5671506331968805,
+      "quality_score": 0.0031000000000000003,
+      "final_score": 0.5716585866120856,
+      "content_type": "general",
+      "word_count": 236,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.31000000000000005,
+        "specificity_score": 0.48,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.2,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Add more specific details like addresses, phone numbers, or hours",
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 56.715063319688056,
+        "semantic_similarity": 0.5671506331968805,
+        "quality_score": 0.0031000000000000003
+      },
+      "adjusted_score": -0.028341413387914405
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Convert a file to PDF using Acrobat menu commands 1",
+      "text": "Convert a file to PDF using Acrobat menu commands 1. Do any of the following: \u2022 In Acrobat, select Create from the global toolbar. The Create a PDF tool opens. On the left rail, Single file is selected by default. Choose the Select a file button.",
+      "page_number": 7,
+      "confidence_score": 0.5660608767987618,
+      "quality_score": 0.0022250000000000004,
+      "final_score": 0.5714247673861714,
+      "content_type": "general",
+      "word_count": 46,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.22250000000000003,
+        "specificity_score": 0.37,
+        "informativeness_score": 0.0,
+        "relevance_score": 0.2,
+        "readability_score": 0.7,
+        "actionability_score": 0.1,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Lacks specific details",
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Add more specific details like addresses, phone numbers, or hours",
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 56.60608767987618,
+        "semantic_similarity": 0.5660608767987618,
+        "quality_score": 0.0022250000000000004
+      },
+      "adjusted_score": -0.3285752326138285
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "title": "Types of PDF forms",
+      "text": "Types of PDF forms \u2022 Interactive forms : These contain fields that you can select and fill in. \u2022 Flat forms : These do not have interactive fields. It could be a paper form or PDF that hasn\u2019t been optimized for form filling. The Fill & Sign tool automatically detects the form fields like text fields, comb fields, checkboxes, and radio buttons. You can manually add text and other symbols anywhere on the form using the Fill & Sign tool if required. You can complete the forms by entering information and adding your signatures. Acrobat also allows you to send your completed forms to others and securely save them in Adobe cloud storage. Fill and sign PDF forms To complete and sign PDF forms, open the form in Acrobat and then select E-Sign from the global bar. Alternatively, you can select All tools > Fill & Sign . It displays the Fill & Sign tools in the left pane. You can now fill in the form fields and sign the form using the sign tools described in the following topics. To fill text fields: 1. From the left panel, select Fill in form fields , and then select the field where you want to add text. It displays a text field along with a toolbar. 2. Select the text field again and enter your text. 3. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. 4. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. 5. To change the text size, select A or A as required.",
+      "page_number": 2,
+      "confidence_score": 0.5582723172603817,
+      "quality_score": 0.003125,
+      "final_score": 0.5497776769041527,
+      "content_type": "general",
+      "word_count": 297,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.3125,
+        "specificity_score": 0.45,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.30000000000000004,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Add more specific details like addresses, phone numbers, or hours",
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 55.82723172603817,
+        "semantic_similarity": 0.5582723172603817,
+        "quality_score": 0.003125
+      },
+      "adjusted_score": -0.6502223230958473
+    }
+  ],
+  "computation_type": "section_selection",
+  "timestamp": "2025-07-27T11:14:00.591573"
+}

@@ -1,0 +1,214 @@
+{
+  "result": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Web pages Method 1 : From the top tools bar, select Create",
+      "text": "Web pages Method 1 : From the top tools bar, select Create . Then, select Web page as the file type and follow through the steps. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create > PDF fr om web page and follow through the workflow. Method 2 : Drag and drop the HTML file from your system to the Acrobat Home page. Method 3: Right -click on the file and then select Convert to Adobe PDF. Method 4: From the top -right corner of the webpage, selec t > Print > Adobe PDF . Content copied on the clipboard Method 1 : From the top tools bar, select Create . Then, select Clipboard as the file type and follow through the steps. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create > PDF from clipboard and follow through the workflow. AutoCAD files (Acrobat Pro for Windows only) Method 1 : From the top tools bar, select Create and then select the file. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create > PDF from file and follow through the workflo w. Method 2 : Drag and drop the HTML file from your system to the Acrobat Home page. Method 3: Right -click the file and select Convert to Adobe PDF . Method 4 : Within AutoCAD, go to Print > Adobe PDF .",
+      "page_number": 4,
+      "confidence_score": 0.6051364027811962,
+      "quality_score": 0.0031000000000000003,
+      "final_score": 0.575974106567024,
+      "content_type": "general",
+      "word_count": 236,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.31000000000000005,
+        "specificity_score": 0.48,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.2,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Add more specific details like addresses, phone numbers, or hours",
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 60.51364027811962,
+        "semantic_similarity": 0.6051364027811962,
+        "quality_score": 0.0031000000000000003
+      },
+      "adjusted_score": 0.575974106567024
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "What \u2019s the best way to create a PDF",
+      "text": "What \u2019s the best way to create a PDF? You can create PDFs from documents printed on paper, Microsoft Word documents, InDesign\u00ae files, digital images, and more. Different types of sources have different tools available for PDF conversion. In many applications, you can create PDFs by selecting the Adobe PDF printer in the Print dialog box. If a file is open in its authoring application (such as a spreadsheet that is open in Microsoft Excel), you can convert it to PDF without opening Adobe Acrobat. Similarly, if Acrobat is already open, you don \u2019t have to open the authoring application to convert a file to PDF. Every PDF balances e\ufb03ciency (small file size) and quality (such as resolution and color). If the balance between the file size and th e quality is critical to your task, you must use an appropriate conversion method. For example, you can drag files to the Acrobat icon to create PDFs. In this case, Acrobat applies the most recently used conversion settings without providing access to thos e settings. If you want more control over the process, you \u2019ll want to use another method. PDF creation methods by file type Refer to the following lists to determine the methods available for the different types of files. File Type PDF Creation Methods Any file format Method 1 : From the top tools bar, select Create . Then, select a file type and then select the file that you want to convert to PDF. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create and then select the appropriate file type and follow through the steps. Method 2 : Drag and drop a file from your system to the Acrobat Home page. Method 3: Right -click on the file and then select Convert to Adobe PDF .",
+      "page_number": 2,
+      "confidence_score": 0.5706454553370719,
+      "quality_score": 0.0033250000000000003,
+      "final_score": 0.5643932957711923,
+      "content_type": "general",
+      "word_count": 303,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.3325,
+        "specificity_score": 0.51,
+        "informativeness_score": 0.15000000000000002,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.2,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 57.06454553370719,
+        "semantic_similarity": 0.5706454553370719,
+        "quality_score": 0.0033250000000000003
+      },
+      "adjusted_score": 0.26439329577119236
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "title": "Veggie Sushi Rolls",
+      "text": "\u2022 1/4 cup red onion, finely chopped \u2022 2 tablespoons olive oil \u2022 1 tablespoon lemon juice \u2022 Salt and pepper to taste Instructions: \u2022 In a bowl, combine the tuna, avocado, tomatoes, and red onion. \u2022 Drizzle with olive oil and lemon juice. \u2022 Season with salt and pepper, then toss to combine. Veggie Sushi Rolls Ingredients: \u2022 1 cup cooked sushi rice \u2022 1/2 cucumber, julienned \u2022 1/2 avocado, sliced \u2022 1/4 cup carrot, julienned \u2022 2 sheets nori (seaweed) \u2022 Soy sauce for dipping Instructions: \u2022 Lay a sheet of nori on a bamboo sushi mat. \u2022 Spread a thin layer of sushi rice over the nori, leaving a 1 -inch border at the top. \u2022 Arrange the cucumber, avocado, and carrot in a line along the bottom edge of the rice. \u2022 Roll the nori tightly using the bamboo mat. \u2022 Slice into bite -sized pieces and serve with soy sauce. Spinach and Feta Stuffed Pita Ingredients: \u2022 1 whole wheat pita bread \u2022 1/2 cup spinach, chopped \u2022 1/4 cup feta cheese, crumbled \u2022 1/4 cup cherry tomatoes, halved \u2022 1 tablespoon olive oil \u2022 Salt and pepper to taste Instructions: \u2022 Cut the pita bread in half to create pockets. \u2022 In a bowl, combine the spinach, feta cheese, and cherry tomatoes. \u2022 Drizzle with olive oil and season with salt and pepper. \u2022 Stuff the mixture into the pita pockets.",
+      "page_number": 11,
+      "confidence_score": 0.6071387830132499,
+      "quality_score": 0.0031500000000000005,
+      "final_score": 0.5429643768416635,
+      "content_type": "general",
+      "word_count": 237,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.31500000000000006,
+        "specificity_score": 0.5,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.2,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 60.71387830132499,
+        "semantic_similarity": 0.6071387830132499,
+        "quality_score": 0.0031500000000000005
+      },
+      "adjusted_score": -0.057035623158336435
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "title": "Fill in PDF Forms Is the form fillable",
+      "text": "Fill in PDF Forms Is the form fillable? Not all forms are fillable. Sometimes form creators don\u2019t convert their PDFs to interactive fillable forms. Or, they intentionally design a form that you can fill in only by hand or with the Fill & Sign tool. These non-interactive forms are called flat forms. Fill in interactive forms An interactive form contains fields that you can select or fill in. 1. If necessary, select either the Hand Tool or the Select Tool from the context menu of the page (right-click on the page to open the context menu). The pointer changes to a different icon as you move it over a field. For example, the Hand tool changes to an I -beam when you can type text into the form field. Some text fields are dynamic, meaning that they automatically resize to accommodate the amount of data you enter and can span across pages.",
+      "page_number": 8,
+      "confidence_score": 0.5587321369980167,
+      "quality_score": 0.002825,
+      "final_score": 0.5333711502537521,
+      "content_type": "general",
+      "word_count": 152,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.2825,
+        "specificity_score": 0.37,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.2,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Lacks specific details",
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Add more specific details like addresses, phone numbers, or hours",
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 55.873213699801674,
+        "semantic_similarity": 0.5587321369980167,
+        "quality_score": 0.002825
+      },
+      "adjusted_score": -0.36662884974624776
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "title": "Beef Bourguignon",
+      "text": "\u2022 8 ounces rice noodles \u2022 1/2 pound shrimp or chicken \u2022 2 eggs \u2022 1 cup bean sprouts \u2022 1/4 cup peanuts, chopped \u2022 2 tablespoons fish sauce \u2022 2 tablespoons tamarind paste \u2022 1 tablespoon sugar \u2022 1 tablespoon lime juice \u2022 1/4 cup green onions, chopped \u2022 2 tablespoons vegetable oil Instructions: \u2022 Soak rice noodles in warm water until softened, then drain. \u2022 Saut\u00e9 shrimp or chicken in vegetable oil until cooked, then set aside. \u2022 Scramble eggs in the same pan. \u2022 Add noodles, fish sauce, tamarind paste, sugar, and lime juice, stir to combine. \u2022 Add bean sprouts, cooked shrim p or chicken, and chopped green onions. \u2022 Garnish with chopped peanuts and serve. Beef Bourguignon Ingredients: \u2022 2 pounds beef chuck, cut into cubes \u2022 1 small onion, diced \u2022 2 cloves garlic, minced \u2022 1 cup red wine \u2022 2 cups beef broth \u2022 1 cup mushrooms, sliced \u2022 1 cup carrots, sliced \u2022 1 cup pearl onions \u2022 2 tablespoons tomato paste \u2022 2 tablespoons flour \u2022 2 tablespoons butter \u2022 1 teaspoon thyme \u2022 1 bay leaf \u2022 Salt and pepper to taste Instructions: \u2022 Preheat oven to 350\u00b0F (175\u00b0C). \u2022 In a large pot, melt butter over medium heat. \u2022 Add d iced onion and minced garlic, saut\u00e9 until translucent. \u2022 Add beef cubes and cook until browned on all sides. \u2022 Sprinkle flour over the beef and stir to combine. \u2022 Add red wine, beef broth, tomato paste, thyme, and bay leaf.",
+      "page_number": 7,
+      "confidence_score": 0.6002295107309702,
+      "quality_score": 0.0030500000000000006,
+      "final_score": 0.5325493042923881,
+      "content_type": "general",
+      "word_count": 254,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.30500000000000005,
+        "specificity_score": 0.5,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.1,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 60.02295107309702,
+        "semantic_similarity": 0.6002295107309702,
+        "quality_score": 0.0030500000000000006
+      },
+      "adjusted_score": -0.6674506957076118
+    }
+  ],
+  "computation_type": "section_selection",
+  "timestamp": "2025-07-27T10:58:06.254024"
+}

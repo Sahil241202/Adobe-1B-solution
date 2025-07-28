@@ -1,0 +1,212 @@
+{
+  "result": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "title": "Smoothie Bowl",
+      "text": "\u2022 1/2 teaspoon ground cinnamon \u2022 1 tablespoon butter Instructions: \u2022 In a shallow dish, whisk together eggs, milk, vanilla extract, and cinnamon. \u2022 Dip each slice of bread into the egg mixture, coating both sides. \u2022 Heat a non -stick skillet over medium heat and melt the butter. \u2022 Cook the bread slices until golden brown on both sides. \u2022 Serve with syrup and powdere d sugar. Smoothie Bowl Ingredients: \u2022 1 banana \u2022 1/2 cup frozen berries \u2022 1/2 cup Greek yogurt \u2022 1/4 cup milk \u2022 Toppings: granola, fresh fruit, nuts, seeds Instructions: \u2022 In a blender, combine banana, frozen berries, Greek yogurt, and milk. \u2022 Blend until smooth. \u2022 Pour into a bowl and top with granola, fresh fruit, nuts, and seeds. Avocado Toast Ingredients: \u2022 2 slices of bread \u2022 1 ripe avocado \u2022 Salt and pepper to taste \u2022 Optional toppings: cherry tomatoes, red pepper flakes, poached egg Instructions: \u2022 Toast the bread s lices. \u2022 Mash the avocado in a bowl and season with salt and pepper. \u2022 Spread the mashed avocado on the toast. \u2022 Add optional toppings if desired. Breakfast Burrito Ingredients: \u2022 2 large eggs \u2022 1/4 cup shredded cheese",
+      "page_number": 3,
+      "confidence_score": 0.561420391875582,
+      "quality_score": 0.0032500000000000007,
+      "final_score": 0.5248556567502328,
+      "content_type": "general",
+      "word_count": 200,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.32500000000000007,
+        "specificity_score": 0.5,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.30000000000000004,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 56.142039187558204,
+        "semantic_similarity": 0.561420391875582,
+        "quality_score": 0.0032500000000000007
+      },
+      "adjusted_score": 0.5248556567502328
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "title": "Beef Bourguignon",
+      "text": "\u2022 8 ounces rice noodles \u2022 1/2 pound shrimp or chicken \u2022 2 eggs \u2022 1 cup bean sprouts \u2022 1/4 cup peanuts, chopped \u2022 2 tablespoons fish sauce \u2022 2 tablespoons tamarind paste \u2022 1 tablespoon sugar \u2022 1 tablespoon lime juice \u2022 1/4 cup green onions, chopped \u2022 2 tablespoons vegetable oil Instructions: \u2022 Soak rice noodles in warm water until softened, then drain. \u2022 Saut\u00e9 shrimp or chicken in vegetable oil until cooked, then set aside. \u2022 Scramble eggs in the same pan. \u2022 Add noodles, fish sauce, tamarind paste, sugar, and lime juice, stir to combine. \u2022 Add bean sprouts, cooked shrim p or chicken, and chopped green onions. \u2022 Garnish with chopped peanuts and serve. Beef Bourguignon Ingredients: \u2022 2 pounds beef chuck, cut into cubes \u2022 1 small onion, diced \u2022 2 cloves garlic, minced \u2022 1 cup red wine \u2022 2 cups beef broth \u2022 1 cup mushrooms, sliced \u2022 1 cup carrots, sliced \u2022 1 cup pearl onions \u2022 2 tablespoons tomato paste \u2022 2 tablespoons flour \u2022 2 tablespoons butter \u2022 1 teaspoon thyme \u2022 1 bay leaf \u2022 Salt and pepper to taste Instructions: \u2022 Preheat oven to 350\u00b0F (175\u00b0C). \u2022 In a large pot, melt butter over medium heat. \u2022 Add d iced onion and minced garlic, saut\u00e9 until translucent. \u2022 Add beef cubes and cook until browned on all sides. \u2022 Sprinkle flour over the beef and stir to combine. \u2022 Add red wine, beef broth, tomato paste, thyme, and bay leaf.",
+      "page_number": 7,
+      "confidence_score": 0.5525340373969109,
+      "quality_score": 0.0030500000000000006,
+      "final_score": 0.5134711149587643,
+      "content_type": "general",
+      "word_count": 254,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.30500000000000005,
+        "specificity_score": 0.5,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.1,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 55.25340373969109,
+        "semantic_similarity": 0.5525340373969109,
+        "quality_score": 0.0030500000000000006
+      },
+      "adjusted_score": 0.2134711149587643
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "title": "Veggie Sushi Rolls",
+      "text": "\u2022 1/4 cup red onion, finely chopped \u2022 2 tablespoons olive oil \u2022 1 tablespoon lemon juice \u2022 Salt and pepper to taste Instructions: \u2022 In a bowl, combine the tuna, avocado, tomatoes, and red onion. \u2022 Drizzle with olive oil and lemon juice. \u2022 Season with salt and pepper, then toss to combine. Veggie Sushi Rolls Ingredients: \u2022 1 cup cooked sushi rice \u2022 1/2 cucumber, julienned \u2022 1/2 avocado, sliced \u2022 1/4 cup carrot, julienned \u2022 2 sheets nori (seaweed) \u2022 Soy sauce for dipping Instructions: \u2022 Lay a sheet of nori on a bamboo sushi mat. \u2022 Spread a thin layer of sushi rice over the nori, leaving a 1 -inch border at the top. \u2022 Arrange the cucumber, avocado, and carrot in a line along the bottom edge of the rice. \u2022 Roll the nori tightly using the bamboo mat. \u2022 Slice into bite -sized pieces and serve with soy sauce. Spinach and Feta Stuffed Pita Ingredients: \u2022 1 whole wheat pita bread \u2022 1/2 cup spinach, chopped \u2022 1/4 cup feta cheese, crumbled \u2022 1/4 cup cherry tomatoes, halved \u2022 1 tablespoon olive oil \u2022 Salt and pepper to taste Instructions: \u2022 Cut the pita bread in half to create pockets. \u2022 In a bowl, combine the spinach, feta cheese, and cherry tomatoes. \u2022 Drizzle with olive oil and season with salt and pepper. \u2022 Stuff the mixture into the pita pockets.",
+      "page_number": 11,
+      "confidence_score": 0.5306100146219221,
+      "quality_score": 0.0031500000000000005,
+      "final_score": 0.5125165058487688,
+      "content_type": "general",
+      "word_count": 237,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.31500000000000006,
+        "specificity_score": 0.5,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.2,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 53.061001462192216,
+        "semantic_similarity": 0.5306100146219221,
+        "quality_score": 0.0031500000000000005
+      },
+      "adjusted_score": -0.08748349415123113
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "title": "Mushroom Risotto",
+      "text": "\u2022 Chopped parsley for garnish \u2022 Cooked couscous for serving Instructions: \u2022 In a large pot, heat olive oil over medium heat. \u2022 Brown chicken thighs on all sides, then set aside. \u2022 Saut\u00e9 onion and garlic until softened. \u2022 Stir in cumin, cinnamon, and turmeric, then add chicken broth, apricots, and olives. \u2022 Return chicken to the pot, cover, and simmer for 45 minutes until tender. \u2022 Season with salt and pepper. \u2022 Garnish with parsley and serve over couscous. Mushroom Risotto Ingredients: \u2022 1 cup Arborio rice \u2022 4 cups chicken or vegetable broth \u2022 1 small onion, diced \u2022 2 cloves garlic, minced \u2022 1 cup mushrooms, sliced \u2022 1/2 cup white wine \u2022 1/2 cup grated Parmesan cheese \u2022 2 tablespoons butter \u2022 2 tablespoons olive oil \u2022 Salt and pepper to taste \u2022 Chopped parsley for garnish Instructions: \u2022 Heat broth in a pot and keep warm. \u2022 In a large skillet, heat olive oil and 1 tablespoon butter over medium heat. \u2022 Saut\u00e9 onion, garlic, and mushrooms until tender. \u2022 Add rice and stir for 1 -2 minutes until lightly toast ed. \u2022 Pour in white wine and cook until absorbed. \u2022 Add warm broth, one ladle at a time, stirring until absorbed before adding more, until rice is creamy and tender (about 20 minutes). \u2022 Stir in remaining butter and Parmesan cheese, season with salt and pepper. \u2022 Garnish with parsley and serve. Pulled Pork Sandwiches Ingredients: \u2022 2 pounds pork shoulder \u2022 1 small onion, sliced \u2022 2 cloves garlic, minced",
+      "page_number": 7,
+      "confidence_score": 0.5413438989758886,
+      "quality_score": 0.0031000000000000003,
+      "final_score": 0.5090025595903555,
+      "content_type": "general",
+      "word_count": 259,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.31000000000000005,
+        "specificity_score": 0.5,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.15000000000000002,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 54.13438989758886,
+        "semantic_similarity": 0.5413438989758886,
+        "quality_score": 0.0031000000000000003
+      },
+      "adjusted_score": -0.39099744040964446
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "title": "the handle to resize the text block. Add or edit",
+      "text": "the handle to resize the text block. Add or edit lists You can add items to a numbered or bulleted list, create list items, convert a paragraph to a list item, and conversely. You can also change list types. 1. Select Edit in the global bar. Then, from the Edit panel, select Text under Add Content. 2. To add or remove items from a num bered or bulleted list: \u2022 Note: You can add or remove items to the list at all nested levels using the same familiar controls that you use in Microsoft\u00ae Office. For example, press Enter at the end of a list item to insert a new row. Press Backspace to remove the new row and position the cursor back to the end of the previous list item. To create a numbered or bulleted list: 1. Place the cursor in the document at the location where you want to add a list. 2. Choose the appropriate list type under Format Text . To convert an existing paragraph to a list item: \u2022 Place the cursor in the paragraph, and then choose the appropriate list type under Format Text . To convert an existing list item to a paragraph: 1. Select all items in the list. The appropriate list type is highlighted under Format Text . 2. Click the highlighted list type. To convert from one list type to another: 1. Place the cursor in the list item or select all items. 2. Choose the appropriate list type under Format Text . Change font color 1. Select Edit in the global bar.",
+      "page_number": 9,
+      "confidence_score": 0.5190010779239134,
+      "quality_score": 0.0025,
+      "final_score": 0.5035754311695653,
+      "content_type": "general",
+      "word_count": 264,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.25,
+        "specificity_score": 0.48,
+        "informativeness_score": 0.0,
+        "relevance_score": 0.2,
+        "readability_score": 0.7,
+        "actionability_score": 0.1,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Add more specific details like addresses, phone numbers, or hours",
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 51.90010779239134,
+        "semantic_similarity": 0.5190010779239134,
+        "quality_score": 0.0025
+      },
+      "adjusted_score": -0.6964245688304347
+    }
+  ],
+  "computation_type": "section_selection",
+  "timestamp": "2025-07-27T10:54:42.618431"
+}
